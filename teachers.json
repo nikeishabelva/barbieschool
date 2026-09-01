@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T001",
+    "name": "Aulia Rahma, S.Pd.",
+    "subject": "Mathematics",
+    "classes": "8A, 9A"
+  },
+  {
+    "id": "T002",
+    "name": "Dinda Prameswari, S.Pd.",
+    "subject": "Biology",
+    "classes": "8B, 9B"
+  },
+  {
+    "id": "T003",
+    "name": "Fahri Akbar, S.S.",
+    "subject": "English",
+    "classes": "7A, 8A"
+  },
+  {
+    "id": "T004",
+    "name": "Nabila Putri, S.Pd.",
+    "subject": "History",
+    "classes": "7B, 8C"
+  }
+]

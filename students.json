@@ -1,0 +1,66 @@
+[
+  {
+    "id": "BS001",
+    "name": "Alya Putri",
+    "class": "8A",
+    "gender": "Female",
+    "attendance": "96%",
+    "status": "Active"
+  },
+  {
+    "id": "BS002",
+    "name": "Nadira Azzahra",
+    "class": "8A",
+    "gender": "Female",
+    "attendance": "94%",
+    "status": "Active"
+  },
+  {
+    "id": "BS003",
+    "name": "Rafa Pratama",
+    "class": "8B",
+    "gender": "Male",
+    "attendance": "91%",
+    "status": "Active"
+  },
+  {
+    "id": "BS004",
+    "name": "Keisha Anindya",
+    "class": "9A",
+    "gender": "Female",
+    "attendance": "98%",
+    "status": "Active"
+  },
+  {
+    "id": "BS005",
+    "name": "Fathan Rizky",
+    "class": "9B",
+    "gender": "Male",
+    "attendance": "89%",
+    "status": "Active"
+  },
+  {
+    "id": "BS006",
+    "name": "Salsa Maharani",
+    "class": "7A",
+    "gender": "Female",
+    "attendance": "97%",
+    "status": "Active"
+  },
+  {
+    "id": "BS007",
+    "name": "Naila Safitri",
+    "class": "7B",
+    "gender": "Female",
+    "attendance": "95%",
+    "status": "Active"
+  },
+  {
+    "id": "BS008",
+    "name": "Raka Wijaya",
+    "class": "8C",
+    "gender": "Male",
+    "attendance": "93%",
+    "status": "Active"
+  }
+]

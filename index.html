@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f6a8c5">
+  <meta name="description" content="Barbie School - Modern School Management App">
+  <title>Barbie School | Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <div class="brand-mark">B</div>
+        <div><strong>Barbie School</strong><span>School Management</span></div>
+      </div>
+
+      <nav class="nav">
+        <p class="nav-label">MAIN</p>
+        <a class="nav-link active" href="#dashboard" data-page="dashboard">⌂ <span>Dashboard</span></a>
+        <a class="nav-link" href="#students" data-page="students">♙ <span>Students</span></a>
+        <a class="nav-link" href="#teachers" data-page="teachers">♧ <span>Teachers</span></a>
+        <a class="nav-link" href="#classes" data-page="classes">▦ <span>Classes</span></a>
+        <a class="nav-link" href="#subjects" data-page="subjects">◇ <span>Subjects</span></a>
+        <a class="nav-link" href="#schedule" data-page="schedule">◷ <span>Schedule</span></a>
+        <a class="nav-link" href="#assignments" data-page="assignments">✎ <span>Assignments</span></a>
+        <a class="nav-link" href="#grades" data-page="grades">▥ <span>Grades</span></a>
+        <a class="nav-link" href="#attendance" data-page="attendance">✓ <span>Attendance</span></a>
+        <p class="nav-label">SCHOOL</p>
+        <a class="nav-link" href="#announcements" data-page="announcements">◉ <span>Announcements</span></a>
+        <a class="nav-link" href="#calendar" data-page="calendar">□ <span>Calendar</span></a>
+        <a class="nav-link" href="#settings" data-page="settings">⚙ <span>Settings</span></a>
+      </nav>
+
+      <div class="sidebar-card">
+        <div class="mini-sparkle">✦</div>
+        <strong>Keep shining!</strong>
+        <span>Small progress every day creates big results.</span>
+      </div>
+    </aside>
+
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <main class="main">
+      <header class="topbar">
+        <button class="icon-btn mobile-menu" id="menuBtn" aria-label="Open menu">☰</button>
+        <div class="topbar-search">
+          <span>⌕</span><input id="globalSearch" type="search" placeholder="Search students, teachers, classes...">
+        </div>
+        <div class="top-actions">
+          <button class="icon-btn" id="themeBtn" title="Toggle theme">☾</button>
+          <button class="icon-btn notification-btn" id="notificationBtn" title="Notifications">♧<i></i></button>
+          <div class="profile">
+            <div class="avatar">NB</div>
+            <div><strong>Belva</strong><span>Administrator</span></div>
+          </div>
+        </div>
+      </header>
+
+      <div id="notificationPanel" class="popover hidden">
+        <strong>Notifications</strong>
+        <div class="notification-item"><b>New assignment</b><span>Mathematics • Class 8A</span></div>
+        <div class="notification-item"><b>Attendance updated</b><span>Today's attendance is 94%</span></div>
+        <div class="notification-item"><b>School event</b><span>Festival is coming on Sept 15</span></div>
+      </div>
+
+      <section class="content" id="appContent"></section>
+    </main>
+  </div>
+
+  <div id="toast" class="toast"></div>
+  <script src="js/app.js"></script>
+</body>
+</html>

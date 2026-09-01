@@ -1,0 +1,26 @@
+[
+  {
+    "time": "08:00",
+    "subject": "Mathematics",
+    "teacher": "Aulia Rahma",
+    "room": "Room 201"
+  },
+  {
+    "time": "09:30",
+    "subject": "Biology",
+    "teacher": "Dinda Prameswari",
+    "room": "Lab 02"
+  },
+  {
+    "time": "11:00",
+    "subject": "English",
+    "teacher": "Fahri Akbar",
+    "room": "Room 102"
+  },
+  {
+    "time": "13:00",
+    "subject": "Art & Design",
+    "teacher": "Maya Lestari",
+    "room": "Studio 01"
+  }
+]

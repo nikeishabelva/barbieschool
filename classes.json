@@ -1,0 +1,44 @@
+[
+  {
+    "name": "7A",
+    "level": "Grade 7",
+    "students": 31,
+    "homeroom": "Nabila Putri, S.Pd."
+  },
+  {
+    "name": "7B",
+    "level": "Grade 7",
+    "students": 30,
+    "homeroom": "Nabila Putri, S.Pd."
+  },
+  {
+    "name": "8A",
+    "level": "Grade 8",
+    "students": 32,
+    "homeroom": "Aulia Rahma, S.Pd."
+  },
+  {
+    "name": "8B",
+    "level": "Grade 8",
+    "students": 29,
+    "homeroom": "Dinda Prameswari, S.Pd."
+  },
+  {
+    "name": "8C",
+    "level": "Grade 8",
+    "students": 30,
+    "homeroom": "Nabila Putri, S.Pd."
+  },
+  {
+    "name": "9A",
+    "level": "Grade 9",
+    "students": 34,
+    "homeroom": "Aulia Rahma, S.Pd."
+  },
+  {
+    "name": "9B",
+    "level": "Grade 9",
+    "students": 31,
+    "homeroom": "Dinda Prameswari, S.Pd."
+  }
+]

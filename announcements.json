@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Barbie School Festival",
+    "date": "15 September 2026",
+    "text": "School festival akan berlangsung dengan berbagai kegiatan kreatif dan kompetisi antarkelas.",
+    "type": "Event"
+  },
+  {
+    "title": "Midterm Examination",
+    "date": "21 September 2026",
+    "text": "Jadwal ujian tengah semester tersedia di halaman kalender dan schedule.",
+    "type": "Academic"
+  },
+  {
+    "title": "Library Week",
+    "date": "28 September 2026",
+    "text": "Ayo ikut Library Week dan kumpulkan poin membaca kelasmu.",
+    "type": "Activity"
+  }
+]

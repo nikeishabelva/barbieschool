@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mathematics",
+    "code": "MAT",
+    "teacher": "Aulia Rahma, S.Pd.",
+    "color": "pink"
+  },
+  {
+    "name": "Biology",
+    "code": "BIO",
+    "teacher": "Dinda Prameswari, S.Pd.",
+    "color": "green"
+  },
+  {
+    "name": "English",
+    "code": "ENG",
+    "teacher": "Fahri Akbar, S.S.",
+    "color": "yellow"
+  },
+  {
+    "name": "History",
+    "code": "HIS",
+    "teacher": "Nabila Putri, S.Pd.",
+    "color": "red"
+  },
+  {
+    "name": "Art & Design",
+    "code": "ART",
+    "teacher": "Maya Lestari, S.Sn.",
+    "color": "pink"
+  },
+  {
+    "name": "Computer Science",
+    "code": "CS",
+    "teacher": "Rizky Hadi, S.Kom.",
+    "color": "green"
+  }
+]
